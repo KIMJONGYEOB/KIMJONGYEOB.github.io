@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kimjongyeob.github.io//sitemap.xml
+DaumWebMasterTool:ff74fec15aa9f9bcfbb972ca127ad7052194afc6d4618e1a3fa5e4ea82eb3691:AjqBsM5N9OwqdGhcHVi0YA==
