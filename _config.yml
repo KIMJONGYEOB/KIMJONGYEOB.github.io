@@ -23,5 +23,5 @@ plugins:
   - jekyll-paginate
 
 # 블로그 disqus shortname
-diqus:
+disqus:
   shortname: https-kimjongyeob-github-io
